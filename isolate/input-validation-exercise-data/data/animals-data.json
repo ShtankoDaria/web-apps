@@ -1,0 +1,13 @@
+{
+  "id": 1234,
+  "habitat": "smth",
+  "average_mass": 25,
+  "traits": {
+    "beak": true,
+    "feathers": false,
+    "fur": true,
+    "feet": true,
+    "flippers": true
+  },
+  "is_extinct": true
+}
