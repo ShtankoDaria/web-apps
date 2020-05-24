@@ -1,0 +1,20 @@
+{
+  "title": "Furniture",
+  "description": "Definition of a valid furniture entry",
+  "type": "array",
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "materials": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "second_hand": {
+      "type": "boolean"
+    }
+  },
+  "required": ["id", "materials", "type"]
+}
